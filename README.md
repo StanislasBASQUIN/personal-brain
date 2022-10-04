@@ -1,2 +1,2 @@
-# personal-brain
-Blog on Digital Brain
+# My Personal-Brain
+Blog on Digital Second Brain
